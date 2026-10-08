@@ -1,0 +1,7 @@
+# Vagrant machine state (contains VM IDs and private SSH keys)
+.vagrant/
+
+# Logs and OS files
+*.log
+Thumbs.db
+.DS_Store
