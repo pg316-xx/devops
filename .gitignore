@@ -6,3 +6,9 @@
 Thumbs.db
 .DS_Store
 .pem
+# Private keys - never commit
+*.pem
+*.ppk
+*.key
+id_rsa*
+id_ed25519*
