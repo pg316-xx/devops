@@ -2,6 +2,8 @@
 
 A quick reference for everyday DevOps work. Practice these commands on the lab VMs (`vagrant ssh web01`).
 
+Other notes: [AWS-NOTES.md](AWS-NOTES.md) (EC2, security groups, EBS, SSM) and [LEARNING-CHECKLIST.md](LEARNING-CHECKLIST.md) (progress).
+
 ## Contents
 
 - [Linux](#linux)
